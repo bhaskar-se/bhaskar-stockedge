@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhaskar-stockedge
+- 👋 Hi, I’m @bhaskar-se
 - 👀 I’m interested in Js, C++
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on 👩‍💻
